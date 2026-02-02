@@ -1,0 +1,18 @@
+# Core dependencies
+anthropic>=0.18.0
+openai>=1.10.0
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+
+# GitHub integration
+PyGithub>=2.1.1
+gitpython>=3.1.40
+
+# Web server
+flask>=3.0.0
+flask-cors>=4.0.0
+gunicorn>=21.2.0
+
+# Utilities
+requests>=2.31.0
+pydantic>=2.5.0
